@@ -1,0 +1,236 @@
+
+# Flags
+Images of flag of diffrent countries to use in your web projects.
+
+### Flags that are included:
+- united arab emirates
+- romania
+- french polynesia
+- macao
+- bulgaria
+- liberia
+- faroe islands
+- flags
+- bermuda
+- latvia
+- italy
+- oman
+- jersey
+- guam
+- azerbaijan
+- tajikistan
+- djibouti
+- qatar
+- burundi
+- india
+- niger
+- morocco
+- sayches
+- norway
+- aruba
+- tunisia
+- iraq
+- bangladesh
+- costa rica
+- israel
+- georgia
+- armenia
+- south africa
+- zimbabwe
+- kazakhstan
+- vanuatu
+- malaysia
+- nepal
+- ghana
+- laos people's democratic republic
+- guinea
+- lithuania
+- brazil
+- hong kong
+- turks and caicos islands
+- trinidad and tobago
+- benin
+- central african republic
+- gibraltar
+- cyprus
+- anguilla
+- åland islands
+- norfolk island
+- cayman islands
+- ivory coast
+- 
+- algeria
+- united kingdom
+- france
+- saudi arabia
+- belize
+- kyrgyzstan
+- mayotte
+- ecuador
+- equatorial guinea
+- palau
+- grenada
+- fiji
+- monaco
+- botswana
+- macedonia
+- american samoa
+- panama
+- belarus
+- mauritius
+- burkina faso
+- swaziland
+- philippines
+- belgium
+- christmas island
+- sri lanka
+- chad
+- ireland
+- turkmenistan
+- poland
+- greenland
+- uzbekistan
+- suriname
+- guernsey
+- japan
+- madagascar
+- afghanistan
+- cambodia
+- spain
+- sierra leone
+- kuwait
+- README
+- zambia
+- korea, democratic people's republic of
+- taiwan, province of china
+- el salvador
+- bhutan
+- venezuela
+- honduras
+- palestine, occupied
+- denmark
+- nicaragua
+- tokelau
+- mauritania
+- brunei darussalam
+- slovakia
+- iran, islamic republic of
+- albania
+- mali
+- uruguay
+- tuvalu
+- portugal
+- san marino
+- niue
+- bosnia and herzegovina
+- sudan
+- puerto rico
+- eritrea
+- lebanon
+- jordan
+- hungary
+- cuba
+- dominican republic
+- somalia
+- seychelles
+- pitcairn
+- thailand
+- mexico
+- virgin islands, u
+- guyana
+- senegal
+- kiribati
+- holy see (vatican city state)
+- samoa
+- bolivia
+- 
+- malawi
+- gabon
+- guinea-bissau
+- ethiopia
+- viet nam
+- dominica
+- indonesia
+- bahrain
+- switzerland
+- russian federation
+- libyan arab jamahiriya
+- iceland
+- canada
+- egypt
+- comoros
+- papua new guinea
+- cocos (keeling) islands
+- australia
+- serbia
+- solomon islands
+- kenya
+- antigua and barbuda
+- uganda
+- myanmar
+- colombia
+- namibia
+- saint kitts and nevis
+- croatia
+- british indian ocean territory
+- jamaica
+- angola
+- sweden
+- falkland islands (malvinas)
+- cape verde
+- paraguay
+- marshall islands
+- greece
+- nauru
+- maldives
+- congo, the democratic republic of the
+- isle of man
+- netherlands
+- turkey
+- united states
+- andorra
+- barbados
+- togo
+- sao tome and principe
+- lesotho
+- tonga
+- malta
+- syrian arab republic
+- argentina
+- korea, republic of
+- estonia
+- nigeria
+- rwanda
+- peru
+- bahamas
+- guatemala
+- chile
+- gambia
+- luxembourg
+- yemen
+- martinique
+- mozambique
+- cook islands
+- pakistan
+- file
+- austria
+- micronesia, federated states of
+- haiti
+- china
+- ukraine
+- mongolia
+- liechtenstein
+- moldova, republic of
+- cameroon
+- montserrat
+- new zealand
+- northern marianas islands
+- germany
+- tanzania, united republic of
+- singapore
+- virgin islands, british
+- slovenia
+- 
+- czech republic
+- finland
+
